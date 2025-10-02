@@ -25,3 +25,11 @@ A Python CLI tool that uses NLP and regex to convert natural language queries in
 - **sys** – Handling command-line arguments  
 - **Natural Language Processing (basic NLP techniques)** – Converting plain English queries into SQL  
 - **Command-Line Interface (CLI)** – For running the tool directly in the terminal
+
+## Questions we can try
+
+- python csv_nlp_sql.py students.csv "what is the total marks"
+- python csv_nlp_sql.py students.csv "what is the average marks"
+- python csv_nlp_sql.py students.csv "show the student names"
+- python csv_nlp_sql.py students.csv "show the maximum marks"
+- python csv_nlp_sql.py students.csv "arrange the table in descending order by marks"
