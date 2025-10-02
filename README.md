@@ -33,3 +33,5 @@ A Python CLI tool that uses NLP and regex to convert natural language queries in
 - python csv_nlp_sql.py students.csv "show the student names"
 - python csv_nlp_sql.py students.csv "show the maximum marks"
 - python csv_nlp_sql.py students.csv "arrange the table in descending order by marks"
+
+![](https://github.com/amit-sharma-ds/NL2SQL/blob/main/NL2SQL_CLI/Screenshot%202025-10-02%20121325.png)
