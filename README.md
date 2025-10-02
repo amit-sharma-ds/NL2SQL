@@ -1,5 +1,7 @@
 # NL2SQL CLI
 
+![](https://blog.cogxta.com/wp-content/uploads/2025/03/nl-to-sql.png)
+
 A Python CLI tool that uses NLP and regex to convert natural language queries into SQL-like operations on CSV datasets. Users can ask questions in plain English, such as totals, averages, filtering, and ordering, and get results instantly. It works dynamically with any CSV file, providing fast, tabular output while supporting ordinal queries like “second highest marks.”
 
 ## Features
